@@ -1,6 +1,5 @@
 # Hello World! I'm Md Shaquib Khan, a Frontend Developer 👋🏼:
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 🌐 Currently working on my own projects and exploring web technologies<br>  
 🎓 Pursuing a Bachelor of Computer Applications (BCA)<br>  
